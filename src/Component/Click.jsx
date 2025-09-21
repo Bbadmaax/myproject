@@ -4,7 +4,7 @@ function Click(){
     
     return(
         <div>
-            thank you
+            thank you so much freind 
         </div>
     )
 }
